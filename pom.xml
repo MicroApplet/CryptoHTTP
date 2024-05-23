@@ -24,7 +24,7 @@
     <artifactId>CryptoHTTP</artifactId>
     <version>Java8-1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>EnDecrypt</name>
+    <name>CryptoHTTP</name>
     <url>https://github.com/MicroApplet/EnDecrypt</url>
 
     <description>Servlet-based Encrypted Communication Framework</description>
